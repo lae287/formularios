@@ -1,0 +1,7 @@
+com\example\usuarios\UsuariosApplication.class
+com\example\usuarios\entidades\DTOResponse.class
+com\example\usuarios\entidades\DTOOpi.class
+com\example\usuarios\entidades\DTOResponseObject.class
+com\example\usuarios\entidades\DTOParams.class
+com\example\usuarios\controller\GestionUsuarios.class
+com\example\usuarios\entidades\DatosOpinion.class
